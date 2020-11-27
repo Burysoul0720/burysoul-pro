@@ -13,3 +13,4 @@ Hello Burysoul
 Hello Burysoul
 Hello Burysoul
 Hello Burysoul      hot-fix
+Hello Burysoul    master
